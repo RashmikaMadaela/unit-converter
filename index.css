@@ -12,9 +12,13 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    padding: 0;
     color: white;
-    
+    background-color: #1d2229;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
     font-family: 'inter', sans-serif;
 }
 
@@ -24,6 +28,13 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    max-height: 900px;
+    border-radius: 10px;
+    overflow: hidden;
+
 }
 
 .upper-section {

@@ -34,7 +34,7 @@ body {
     height: 40%;
     background-color: #6943FF;
     width: 100%;
-    padding: 20px;
+    padding: 20px 0px;
 }
 
 .lower-section {
@@ -46,7 +46,7 @@ body {
     height: 55%;
     background-color: #1F2937;
     width: 100%;
-    padding: 20px;
+    padding: 20px 0px;
 }
 
 input{
